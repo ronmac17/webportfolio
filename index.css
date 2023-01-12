@@ -1,0 +1,28 @@
+*{
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+	background-color: rgb(74, 74, 70);
+	color: rgb(243, 245, 118);
+}
+
+div{
+	display: inline-block;
+	float: right;
+}
+section{
+	height: 100vh;
+	text-align: center;
+}
+img{
+	margin: 100px ;
+	height: 300px;
+	border-radius: 100px;
+}
+#pre-footer > div h3{
+	text-align: center;
+}
+#pre-footer > div{
+	color: yellow;
+	text-align: center;
+	background-color: yellow;
+}
